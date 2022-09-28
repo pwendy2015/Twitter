@@ -29,7 +29,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/XFIXTcP.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />Time spent: **10** hours spent in total
+<img src='https://i.imgur.com/XFIXTcP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />Time spent: **10** hours spent in total
 
 ## User Stories
 
